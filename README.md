@@ -1,2 +1,4 @@
 # Tarea_4_ServoconZ
-Fabricando posibilidades de aprobar usando git
+Creando la posibilidad de crear mi repositorio local.
+
+prueba sistematica de dolor.
